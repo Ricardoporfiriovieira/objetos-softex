@@ -1,0 +1,50 @@
+Materiais
+
+Carro
+Atributos
+•     Marca
+•     Modelo
+•     Motor
+Métodos
+•     Acelerar
+•     frear
+•     Ré
+
+
+Cachorro
+Atributos
+•     raça
+•     tamanho
+•     nome
+Métodos
+•     Correr
+•     Brincar
+•     latir
+
+
+Abstratos
+
+Conta de banco
+Atributos
+•     nome do titular
+•     numero da conta
+•     saldo da conta
+Métodos
+•     debitar dinheiro da conta
+•     creditar dinheiro na conta
+•     transferencia de dinheiro entre contas
+ 
+video 
+Atributos
+•     resolução
+•     duração
+•     tamamnho(MB)
+Métodos
+•     Tocar
+•     Pausar
+•     avançar no vídeo
+ 
+
+
+
+
